@@ -1,4 +1,4 @@
-# CKID_SM_Habbits
+# SM_Habits
 
 Project Name: Social media habits of misinformation spreaders  
 Mentor: Luca Luceri & Ian Anderson  
