@@ -15,8 +15,8 @@ Files
 7. BestInterdisciplinaryDataScienceTeam_Luca+Ian.pdf  =>  award for Best Interdisciplinary Data Science Team
 8. BestWebsite_Luca+Ian.pdf  =>  award for Best Website  
 
-Links
-project website: https://sites.google.com/usc.edu/social-media-habits  
-bias_score source: https://www.nature.com/articles/s41467-021-25738-6#Sec10  
-misinfo_score source: https://iffy.news/  
-toxicity source: https://perspectiveapi.com/  
+Links  
+1. project website: https://sites.google.com/usc.edu/social-media-habits  
+2. bias_score source: https://www.nature.com/articles/s41467-021-25738-6#Sec10  
+3. misinfo_score source: https://iffy.news/  
+4. toxicity source: https://perspectiveapi.com/  
